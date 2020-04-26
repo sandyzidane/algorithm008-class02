@@ -1,7 +1,7 @@
 # 第二周学习笔记
 
 ## 本周知识结构
-![week2-knowledge][./week2-knowledge.png]
+![week2-knowledge][./week2-knowledge]
 
 ## HashMap小总结
 ### 数据结构
