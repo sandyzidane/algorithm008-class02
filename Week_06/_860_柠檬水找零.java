@@ -1,7 +1,7 @@
 /**
  * 860. 柠檬水找零
  */
-public class LemondeChange {
+public class _860_柠檬水找零 {
     
     class Solution {
         public boolean lemonadeChange(int[] bills) {

@@ -1,4 +1,4 @@
-public class SearchA2dMatrix {
+public class _74_搜索二维矩阵 {
 
     public static void main(String[] args) {
         int[][] matrix = new int[][]{
@@ -8,7 +8,7 @@ public class SearchA2dMatrix {
         };
         int target = 13;
 
-        System.out.println(new SearchA2dMatrix().new Solution().searchMatrix(matrix, target));
+        System.out.println(new _74_搜索二维矩阵().new Solution().searchMatrix(matrix, target));
     }
 
     class Solution {

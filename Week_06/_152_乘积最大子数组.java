@@ -1,11 +1,11 @@
 /**
  * 152. 乘积最大子数组
  */
-public class MaxProduct {
+public class _152_乘积最大子数组 {
 
     public static void main(String[] args) {
         int[] nums = new int[] { 2, 3, -2, 4 };
-        System.out.println(new MaxProduct().new Solution().maxProduct(nums));
+        System.out.println(new _152_乘积最大子数组().new Solution().maxProduct(nums));
     }
 
     class Solution {
