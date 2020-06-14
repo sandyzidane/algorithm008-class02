@@ -1,5 +1,11 @@
 # Week08学习笔记
 
+## 位运算
+  ![位运算](./img/bit_operator.png)
+
+## 布隆过滤器
+  ![位运算](./img/bloomfilter.png)
+
 ## 排序
 1. 选择排序
     ```java
